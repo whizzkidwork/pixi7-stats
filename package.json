@@ -39,7 +39,7 @@
     "@pietal.dev/gstats": "^0.1.4"
   },
   "peerDependencies": {
-    "pixi.js": "^8.1.5"
+    "pixi.js": "^7.1.4"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
